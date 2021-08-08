@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="Input_text"/>
+	<classpathentry kind="src" path="NextPage"/>
+	<classpathentry kind="src" path="MenuTest"/>
+	<classpathentry kind="src" path="Web import"/>
+	<classpathentry kind="src" path="import"/>
+	<classpathentry kind="src" path="Image"/>
+	<classpathentry kind="src" path="SaveFile"/>
+	<classpathentry kind="src" path="TableTest"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
